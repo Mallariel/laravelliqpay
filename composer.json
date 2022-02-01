@@ -1,0 +1,23 @@
+{
+    "name": "mallariel/laravelliqpay",
+    "description": "Liqpay for Laravel",
+    "type": "library",
+    "require": {
+        "liqpay/liqpay": "^1.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mallariel\\LaravelLiqPay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksey",
+            "email": "aleksey@khomenko.dev"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^6.24"
+    }
+}
