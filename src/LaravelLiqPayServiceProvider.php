@@ -20,6 +20,6 @@ class LaravelLiqPayServiceProvider extends BaseServiceProvider
 
     public function provides()
     {
-        return ['liqpay'];
+        return [LaravelLiqPayService::class];
     }
 }

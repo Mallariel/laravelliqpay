@@ -21,7 +21,7 @@ Add the facade to the facades array:
     'aliases' => [
     	//other things here
 
-    	'LiqPay' => Mallariel\LaravelLiqPay\Facades\LaravelLiqPay::class,
+    	'LaravelLiqpay' => Mallariel\LaravelLiqPay\Facades\LaravelLiqPay::class,
     ];
 ```
 
