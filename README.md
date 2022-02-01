@@ -27,9 +27,10 @@ Add the facade to the facades array:
 
 Finally, publish the configuration files:
 ```
-php artisan vendor:publish --provider="Mallariel\LaravelLiqPa\LaravelLiqPayServiceProvider"
+php artisan vendor:publish --provider="Mallariel\LaravelLiqPay\LaravelLiqPayServiceProvider"
 ```
 
-### Configuration
+## Configuration
 Please set your API: `LIQPAY_PUBLIC` and `LIQPAY_PRIVATE` in the `.env` file.
+
 In additional you could set currencies: `LIQPAY_CURRENCIES`
