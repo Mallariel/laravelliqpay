@@ -1,4 +1,9 @@
 # Laravel LiqPay
+[![Latest Stable Version](http://poser.pugx.org/mallariel/laravelliqpay/v)](https://packagist.org/packages/mallariel/laravelliqpay)
+[![Total Downloads](http://poser.pugx.org/mallariel/laravelliqpay/downloads)](https://packagist.org/packages/mallariel/laravelliqpay)
+[![License](http://poser.pugx.org/mallariel/laravelliqpay/license)](https://packagist.org/packages/mallariel/laravelliqpay)
+
+# Laravel LiqPay
 
 A Laravel package for the LiqPay PHP SDK.
 
